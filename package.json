@@ -1,0 +1,19 @@
+{
+  "name": "excel_web",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazahaler/excel_web.git"
+  },
+  "author": "Vladislav Kharlanchuk <vxarlanchuk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazahaler/excel_web/issues"
+  },
+  "homepage": "https://github.com/mazahaler/excel_web#readme"
+}
