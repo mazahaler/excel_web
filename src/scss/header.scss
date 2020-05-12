@@ -35,4 +35,8 @@
   .button {
     @include button(red)
   }
+
+  .material-icons {
+    @include noSelect()
+  }
 }
