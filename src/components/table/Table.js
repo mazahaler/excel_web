@@ -29,7 +29,6 @@ export class Table extends ExcelComponent {
         this.selectCell(this.$root.find('[data-id="0:0"]'))
         this.$on('formula:input', text => this.selection.current.text(text))
         this.$on('formula:enter', () => {
-            console.log('check')
             this.selection.select(this.selection.current)
         })
     }
