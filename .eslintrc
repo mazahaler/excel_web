@@ -14,7 +14,9 @@
     "indent": "off",
     "linebreak-style": "off",
     "eol-last": "off",
-    "no-unexpected-multiline": "off"
+    "no-unexpected-multiline": "off",
+    "no-case-declarations": "off",
+    "space-before-function-paren": "off"
   },
   "extends": [
     "eslint:recommended",
